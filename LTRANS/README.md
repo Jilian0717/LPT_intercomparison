@@ -8,6 +8,6 @@ Example code and input files used to test LTRANS (https://northweb.hpl.umces.edu
 
     • Initial particle location: Initial_particle_locations_100k_7day.csv
     • LTRANS.data
-    • Grid and hydrodynamic files: put zenodo directory here
+    • Grid and hydrodynamic files: put zenodo directory here /LTRANS/hydrodynamics/
 
 
