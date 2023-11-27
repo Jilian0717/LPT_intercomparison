@@ -1,6 +1,6 @@
 Example code and input files used to test LTRANS (https://northweb.hpl.umces.edu/LTRANS.htm)
 
-**compile LTRANS**
+**compile LTRANS:**
 
     make makefile # on perigee
 
