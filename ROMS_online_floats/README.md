@@ -1,4 +1,4 @@
-***Running ROMS online floats***
+## Running ROMS online floats
 
 **cpp flag:** 
 
@@ -16,8 +16,7 @@ liveocean.in
     line 1076: FLTNAME; # directory of float output    
     line 1082: FPOSNAM;  # directory of float.in
 float.in
-
--------
+#
 After compiling roms with floats-related cpp flags, you will see some associated fortran codes in /Build_roms/:
 
     biology_floats.f90
@@ -31,9 +30,8 @@ After compiling roms with floats-related cpp flags, you will see some associated
 
 Some useful posts on ROMS forum:
 
-https://www.myroms.org/wiki/floats.in
-
-https://www.myroms.org/forum/viewtopic.php?p=22734&hilit=floats#p22734
+    https://www.myroms.org/wiki/floats.in
+    https://www.myroms.org/forum/viewtopic.php?p=22734&hilit=floats#p22734
 
 Examples in ROMS source codes:
 
