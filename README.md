@@ -1,6 +1,6 @@
 # LPT_intercomparison
 
-In this study, we evaluated five ocean particle tracking software packages that can work with ROMS hydrodynamics outputs, including:
+In this [study](https://gmd.copernicus.org/preprints/gmd-2023-45/gmd-2023-45.pdf), we evaluated five ocean particle tracking software packages that can work with ROMS hydrodynamics outputs, including:
 
 **Four offline particle tracking:**
   
