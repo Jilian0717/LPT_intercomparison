@@ -6,4 +6,4 @@ The source code of OpenDrift can be download in https://opendrift.github.io/
 
 (3) put 'LO_drift.py' to /your_local_directory/OpenDrift/models
 
-(4) put the hydrodynamic outputs in /your_local_directory/OpenDrift/tests/test_data/HoodCanal/
+(4) put the hydrodynamic [outputs](https://zenodo.org/records/10208175) in /your_local_directory/OpenDrift/tests/test_data/HoodCanal/
