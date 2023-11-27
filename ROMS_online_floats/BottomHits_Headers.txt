@@ -1,0 +1,7 @@
+ column 01: numpar    -Particle identification number (dimensionless)
+ column 02: lon       -Longitude of particle at end of time step (decimal °)
+ column 03: lat       -Latitude  of particle at end of time step (decimal °)
+ column 04: depth     -Depth of particle at end of time step (meters)
+ column 05: age       -Age of particle (in days since released)
+ column 06: time      -Model time (in days since the start of the model)
+ column 07: hitBottom -Number of times the particle struck bottom in the last print interval time step
