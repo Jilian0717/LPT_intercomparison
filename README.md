@@ -2,10 +2,16 @@
 
 In this study, we evaluated five ocean particle tracking software packages that can work with ROMS hydrodynamics outputs, including:
 
-    LTRANS: https://northweb.hpl.umces.edu/LTRANS.htm
-    OpenDrift: https://opendrift.github.io/
-    Particulator: https://github.com/neilbanas/particulator
-    ROMS online floats:
-    Tracker: https://github.com/parkermac/LO/tree/v1.1/tracker
+**Four offline particle tracking:**
+  
+    • LTRANS (Fortran): https://northweb.hpl.umces.edu/LTRANS.htm
+    • OpenDrift (Python): https://opendrift.github.io/
+    • Particulator (MATLAB): https://github.com/neilbanas/particulator
+    • Tracker (Python): https://github.com/parkermac/LO/tree/v1.1/tracker
+**One online particle tracking:**
 
-This repository includes example codes and [zenodo](https://zenodo.org/records/10208175) directory linked to the hydrodynamic outputs from our Hood Canal model (built using ROMS).
+    • ROMS online floats (Fortran): https://www.myroms.org/wiki/floats.in   
+#
+This repository includes example codes for each tracking packages and [zenodo](https://zenodo.org/records/10208175) link to the hydrodynamic outputs from our Hood Canal model (built using ROMS).
+
+Corresponding to xiongjilian@gmail.com; jxiong7@uw.edu
