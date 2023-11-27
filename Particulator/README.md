@@ -1,5 +1,9 @@
+***Codes used to test Particulator***
 
-Main code: example_HC.m
+Souce code of Particulator can be found in https://github.com/neilbanas/particulator
 
-Hydrodynamic input: zenodo + /Particulator/hydrodynamics/
+For my tests using hydrodynamic history files from Hood Canal domain:
 
+• Main code: example_HC.m
+
+• Hydrodynamic input can be found in zenodo + /Particulator/hydrodynamics/
