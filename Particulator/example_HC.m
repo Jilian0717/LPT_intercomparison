@@ -1,7 +1,7 @@
 tic
 clear; clc;
 arg1 = 'LiveOcean';
-arg2 = '/Users/jilian/Desktop/LiveOcean/LO_roms/hc0_v0_uu0mb2/for_particulator/';
+arg2 = './hydrodynamics/';
 
 % _run_ identifies a model run to use as source data
 run = modelRun_romsCascadia(arg1,arg2);	
@@ -9,7 +9,7 @@ datestr(run.t(1))
 datestr(run.t(end))
 %%
 % pick initial coordinates
-fn1 = '/Users/jilian/Desktop/LiveOcean/LO_output/extract/hc0_v0_uu0mb2dye/Tracker/';
+fn1 = './';
 fn2 = 'release_2021.06.01_100k_7day.nc';
 lon_tracker = ncread([fn1,fn2],'lon'); % obtain the inital particle coordiate from tracker
 lat_tracker = ncread([fn1,fn2],'lat');
