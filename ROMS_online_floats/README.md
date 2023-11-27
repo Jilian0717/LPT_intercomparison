@@ -17,7 +17,7 @@ liveocean.in
     line 1082: FPOSNAM;  # directory of float.in
 float.in
 #
-After compiling roms with floats-related cpp flags, you will see some associated fortran codes in /Build_roms/:
+After compiling ROMS with floats-related cpp flags, you will see some associated Fortran codes in /Build_roms/:
 
     biology_floats.f90
     def_floats.f90
