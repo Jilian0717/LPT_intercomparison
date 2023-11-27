@@ -8,4 +8,4 @@ In this study, we evaluated five ocean particle tracking software packages that 
     ROMS online floats:
     Tracker: https://github.com/parkermac/LO/tree/v1.1/tracker
 
-This repository includes example codes and [zenodo]() directory linked to the hydrodynamic outputs from our Hood Canal model (built using ROMS).
+This repository includes example codes and [zenodo](https://zenodo.org/records/10208175) directory linked to the hydrodynamic outputs from our Hood Canal model (built using ROMS).
