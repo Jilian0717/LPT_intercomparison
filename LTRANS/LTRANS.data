@@ -168,8 +168,7 @@ $end
   !Note: if .nc file in separate folder in Windows, then include path. For example:
   !      NCgridfile = 'D:\ROMS\CPB_GRID_wUV.nc'
 $romsgrid
-   NCgridfile='../input_HC/grid_angle.nc'
-  ! NCgridfile='../input_HC/cropped_5.nc'
+   NCgridfile='./grid_angle.nc'
 $end
 
 
@@ -181,7 +180,7 @@ $end
   !      if .nc file in separate folder in Linux, then include path in prefix. For example:
   !      prefix='/share/lzhong/1995/y95hdr_'   
 $romsoutput
-  prefix='../input_HC/HC24_202106_'   ! NetCDF Input Filename prefix                     
+  prefix='./HC24_202106_'   ! NetCDF Input Filename prefix                     
   suffix='.nc'               ! NetCDF Input Filename suffix
   filenum = 1                ! Number in first NetCDF input filename
   numdigits = 4              ! Number of digits in number portion of file name (with leading zeros)
