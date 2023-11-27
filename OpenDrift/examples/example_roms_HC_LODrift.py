@@ -37,8 +37,7 @@ time = LO_native.start_time
 import xarray as xr
 import numpy as np
 
-#fn = '/Users/jilian/Desktop/LiveOcean/LO_output/extract/hc0_v0_uu0mb2dye/Tracker/test_comp_time/release_2021.06.01_1000000particle.nc'
-fn = '/Users/jilian/Desktop/LiveOcean/LO_output/extract/hc0_v0_uu0mb2dye/Tracker/release_2021.06.01_100k_7day.nc'
+fn = './release_2021.06.01_100k_7day.nc'
 tracker = xr.open_dataset(fn)
 z0 = tracker['z'].values[0,:]
 lon = tracker['lon'].values[0,:]
