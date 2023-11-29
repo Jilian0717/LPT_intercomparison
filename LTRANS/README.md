@@ -10,6 +10,6 @@ Example code and input files used to test [LTRANS](https://northweb.hpl.umces.ed
 
 • LTRANS.data
 
-• Grid and hydrodynamic files in [zenodo](https://zenodo.org/records/10208175) /LTRANS/hydrodynamics/
+• Model grid and hydrodynamic files in [zenodo](https://zenodo.org/records/10208175) /LTRANS/hydrodynamics/
 
 
