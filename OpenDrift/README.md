@@ -1,5 +1,7 @@
 The source code of OpenDrift can be downloaded in https://opendrift.github.io/
 
+### Run OpenDrift:
+
 (1) set up the Python environment for OpenDrift
 
 (2) put 'example_roms_HC_LODrift.py' to /your_local_directory/OpenDrift/examples/
